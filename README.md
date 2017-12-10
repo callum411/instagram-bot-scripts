@@ -1,13 +1,13 @@
 # instagram-bot-scripts
 Various scripts for gaining Instagram interactions.
 
-# What are these?
+# What Are These Scripts?
 These various scripts use jQuery to click each element that it finds via innerText & class names.
 
-# Can my account get banned?
+# Can My Account Become Banned?
 Yes (against Instagram's ToS), use at your own risk.
 
-# How do I use these scripts?
+# How Do I Use These Scripts?
   # Follow Script:
   1. Go to a celebrity's followers page.
   2. Open Chrome developer tools.
